@@ -1,6 +1,6 @@
 const express = require("express");
 const stripe = require("stripe")(
-  "sk_test_51OAVfQCCGTVVQilTM23cA1WSfMpGVpTlVoPX59829a8A232ZSjhfSEbgzYquZBamoT4RDGMT099zC2SRBcB0gMSK00SaWOiJ0o"
+  "***********"
 );
 const app = express();
 
